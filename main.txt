@@ -1,0 +1,27 @@
+Programa de teste
+clicar em um espaço em branco na pasta e abrir o git bash
+
+
+#inicializar o repositorio em uma pasta
+git init
+
+#adicionar os arquivos pra stagin area
+git add . ou git add nomeDoArquivo.extensao
+
+
+#jogar os arquivos efetivamente pro repositorio
+git commit -m "mensagem"
+
+
+#enviar os arquivos pro branch master
+git push origin master
+
+
+#puxar os arquivos do branch master
+git pull origin master
+
+#criar um branch
+#git branch nomebranch
+
+#selecionar o branch
+#git checkout nomebranch
