@@ -1,6 +1,6 @@
 Programa de teste
-clicar em um espaço em branco na pasta e abrir o git bash
-ae
+clicar em um espaÃ§o em branco na pasta e abrir o git bash
+aeau
 
 #inicializar o repositorio em uma pasta
 git init
